@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ZEDENMARKA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Merhaba, ben @ZEDENMARKA
+- 👀 İlgiliyim:evet
+- 🌱 Şu anda öğreniyorum:evet
+- 💞️ üzerinde işbirliği yapmak istiyorum:evet
+- 📫 Bana nasıl ulaşılır telegram: @indianbende
+- HESAP ÇALMA ÖĞRETEN TELEGRAMA GELSİN @indianbende
 
 <!---
 ZEDENMARKA/ZEDENMARKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
